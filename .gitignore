@@ -1,0 +1,24 @@
+## Data files (too large for git)
+*.csv
+data/
+input/
+
+## Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.venv/
+
+## Jupyter
+.ipynb_checkpoints/
+*.ipynb_metadata
+
+## OS
+.DS_Store
+Thumbs.db
+
+## Outputs
+submission.csv
+*.log
